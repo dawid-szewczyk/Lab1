@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="mass">Mass:</string>
+    <string name="height">Height:</string>
+    <string name="count">Count</string>
+    <string name="BMI">BMI:</string>
+    <string name="invalid_params_error">Invalid values!</string>
+    <string name="metric_units">Metric units</string>
+    <string name="imperial_units">Imperial units</string>
+    <string-array name="units">
+        <item>@string/metric_units</item>
+        <item>@string/imperial_units</item>
+    </string-array>
+    <string name="kilograms">kg</string>
+    <string name="meters">m</string>
+    <string name="pounds">lb</string>
+    <string name="feet">ft</string>
+
+    <string name="mass_key">mass</string>
+    <string name="height_key">height</string>
+    <string name="units_key">unitsType</string>
+    <string name="BMI_key">BMI</string>
+
+    <string name="toast_save_error">Values must be valid!</string>
+
+    <string name="options">Options</string>
+    <string name="about">About author</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+
+    <string name="email_recipient">recipient@example.com</string>
+    <string name="email_subject">My BMI</string>
+    <string name="email_text">Pss... wanna see some BMI? This is mine:</string>
+    <string name="toast_no_email_clients">There are no email clients installed!</string>
+    <string name="BMI_no_calculated_error">BMI must be calculated to share!</string>
+
+    <string name="cat">Some random cat</string>
+    <string name="about_text">Dawid Szewczyk</string>
+    <string name="back">Back</string>
+</resources>
